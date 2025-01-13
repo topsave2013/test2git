@@ -1,0 +1,14 @@
+{
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": true,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.codeActionsOnSave": ["source.fixAll.eslint"],
+  "eslint.validate": ["javascript", "javascriptreact", "typescript", "vue"],
+  "editor.fontSize": 14,
+  "editor.fontWeight": "bold",
+  "window.zoomLevel": 3,
+  "terminal.integrated.fontSize": 14,
+  //"simpleBrowser.startUrl": "http://localhost:9000",
+  "simpleBrowser.showOnStartup": true
+}
